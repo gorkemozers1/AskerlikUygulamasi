@@ -1,0 +1,14 @@
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Kübra Nur\Desktop\c#\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
